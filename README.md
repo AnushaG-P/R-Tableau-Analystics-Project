@@ -1,6 +1,6 @@
 # R-Tableau-Analystics-Project
 
-1) The files are uploaded accoring to the course schedule. THe tableau files have calulated metrics used to perform statistical analysis & return values which can be further used as a property & applied to the data. 
+1) The files are uploaded accoring to the course schedule. The tableau files have calulated metrics used to perform statistical analysis & return values which can be further used as a property & applied to the data. 
 
 2) Each csv file has its corresponding xlsx file for easier access to data for visulization purposes.
 
