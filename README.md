@@ -6,4 +6,6 @@
 
 3) There are 5 different models covered in the course which include : Linear Regression, Clustering based on Centriods ( K-Means), Logestic Regression, Support Vector Machines and Random Forest.
 
-5) The couse also invloved connecting table with Rserve and create calulated fields. These fields have paths referenced which need to b edited before running the files in tabeau.   
+5) The couse also invloved connecting table with Rserve and create calulated fields. These fields have paths referenced which need to b edited before running the files in tabeau.
+   
+6) The Dashboard folder has a couple of images of the dashboards worked on.  
